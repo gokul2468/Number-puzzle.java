@@ -1,16 +1,6 @@
 berManipulations
 /NumberManipulations.java
-Latest commit
-krishnaP8304
-krishnaP8304
-17 hours ago
-History
-37 lines (32 loc) · 1.03 KB
-File metadata and controls
 
-Code
-
-Blame
 import java.util.Scanner;
 
 public class NumberManipulations {
